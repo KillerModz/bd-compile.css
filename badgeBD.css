@@ -1,3 +1,21 @@
+#app-mount .nameAndDecorators-5FJ2dg .name-uJV0GL .overflow-WK9Ogt::before,
+#app-mount .nameAndDecorators-5FJ2dg .name-uJV0GL span::before,
+#app-mount .listAvatar-1BbvHX + .listName-U3shDM .username-2b1r56::before {
+    padding: 0 8px 0 8px;
+    margin-right: 4px;
+}
+#app-mount .wrapper-2a6GCs h2 .username-1A8OIy::before,
+#app-mount .userInfo-2zN2z8 .wrapper-3t9DeA + .text-37NqbO .username-2b1r56::before,
+#app-mount .userPopout-xaxa6l .headerTagUsernameNoNickname-1ZLDYY::before,
+#app-mount .userPopout-xaxa6l .nickname-2gQ76l::before {
+    padding: 0 10px 0 10px;
+    margin-right: 4px;
+}
+#app-mount .wrapper-3t9DeA + .header-3uLluP::before {
+    padding: 0 12px 0 12px;
+    margin-right: 4px;
+}
+
 .userPopout-xaxa6l[data-user-id="527609855645581332"] .container-q03LZO::before,
 .root-3QyAh1[data-user-id="527609855645581332"] .container-q03LZO::before {
     content: "";
